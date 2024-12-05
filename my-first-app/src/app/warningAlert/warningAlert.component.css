@@ -1,0 +1,17 @@
+.box {
+  background-color: white;
+  border: 1px solid red;
+  border-radius: 25px;
+  color: red;
+  /* height: 40px;
+  width: 200px; */
+  text-align: center;
+  padding: 10px 10px;
+  display: inline;
+}
+
+.box:hover {
+  background-color: red;
+  border: 1px solid red;
+  color: white;
+}

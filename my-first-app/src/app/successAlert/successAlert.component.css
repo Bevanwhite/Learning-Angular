@@ -1,0 +1,18 @@
+.box {
+  background-color: white;
+  border: 1px solid green;
+  border-radius: 25px;
+  color: green;
+  /* height: 40px;
+  width: 200px; */
+  text-align: center;
+  padding: 10px 10px;
+  display: inline;
+  margin-right: 10px;
+}
+
+.box:hover {
+  background-color: green;
+  border: 1px solid green;
+  color: white;
+}

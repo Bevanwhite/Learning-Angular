@@ -7,5 +7,5 @@ testrun:
 createcomponent:
 	cd my-first-app && ng generate component ${name} --skip-tests
 
-createSC:
+createSC: # create shortcut component
 	cd my-first-app && ng g c ${name} --skip-tests
